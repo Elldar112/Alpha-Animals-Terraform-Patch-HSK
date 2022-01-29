@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Alpha Biomes Terraform Patch</name>
+	<author>Elldar</author>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>Elldar.ABTerraform</packageId>
+	<description>Patch for Alpha Biomes, allowing You to terraform (most of) the terrain added by that mod.</description>
+	<url>https://github.com/Elldar112/Alpha-Biomes-Terraform-Patch-HSK</url>
+	<modDependencies>
+		<li>
+			<packageId>skyarkhangel.HSK</packageId>
+			<displayName>Hardcore SK</displayName>
+			<downloadUrl>https://github.com/skyarkhangel/Hardcore-SK</downloadUrl>
+		</li>
+		<li>
+			<packageId>sarg.alphabiomes</packageId>
+			<displayName>Alpha Biomes</displayName>
+			<downloadUrl></downloadUrl>
+		</li>
+	</modDependencies>
+		<loadBefore>
+		</loadBefore>
+		<loadAfter>
+		</loadAfter>
+		<incompatibleWith>
+		</incompatibleWith>
+</ModMetaData>

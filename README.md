@@ -5,7 +5,6 @@
 
 Patch for Alpha Biomes, allowing You to terraform (most of) the terrain added by that mod.
 
-***Place into Mods\CoreSK\Patches***
 ```- Most of alien terrain can be now terraformed using "Topsoil" method.
 - All alien stones are can now be terraformed using "Stone -> Rocky Dirt" or "Topsoil" (if smoothed).
 - All alien sand can now be terraformed using "Sand to.." or Topsoil method.
